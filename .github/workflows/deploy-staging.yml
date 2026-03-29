@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace <username> with GitHub username omoferacho###
   ###############################################
   DOCKER_IMAGE_NAME: omoferacho-azure-ttt
   AZURE_WEBAPP_NAME: omoferacho-ttt-app
